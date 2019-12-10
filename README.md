@@ -1,3 +1,6 @@
+# 当前仓库停止更新，请移步新仓库
+- [新仓库传送门](https://github.com/TonyJiangWJ/Ant-Forest)
+- 因为和主分支差异较大，不准备在这个fork的分支上继续开发了，现在将仓库复制了一份 独立开发
 # 其他脚本
 - [蚂蚁庄园传送门](https://github.com/TonyJiangWJ/Ant-Manor)
 # 简介
